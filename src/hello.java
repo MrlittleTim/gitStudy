@@ -6,6 +6,8 @@ public class hello {
         System.out.println("test ssh push");
         System.out.println("gitee test");
         System.out.println("gitee outline");
+        System.out.println("gitee online");
+        System.out.println("success");
     }
 }
 
