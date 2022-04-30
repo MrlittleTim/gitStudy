@@ -8,9 +8,9 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>demo</title>
   </head>
   <body>
-  $END$
+  <h1 style="color: coral">git test</h1>
   </body>
 </html>
