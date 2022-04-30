@@ -3,6 +3,7 @@ public class hello {
         System.out.println("hello world!");
         System.out.println("你好 世界！");
         System.out.println("测试 commit&push");
+        System.out.println("test ssh push");
     }
 }
 
